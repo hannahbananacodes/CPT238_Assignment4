@@ -1,0 +1,35 @@
+body {
+    background-color: blue;
+}
+
+#area1 {
+    width: 800px;
+    height: 400px;
+    background-image: url("flag.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+#area2 {
+    width: 280px;
+    height: 35px;
+    background-color: red;
+    font-family: Arial;
+    font-size: 24px;
+    padding: 10px;
+    border: solid 5px black;
+}
+
+#area3 {
+   width: 340px;
+   height: 200px;
+   background-color: white;
+   padding: 25px;
+   border: solid 5px black;
+   overflow: scroll;
+}
+
+.newFont {
+    font-family: Arial;
+    font-size: 18px;
+}
